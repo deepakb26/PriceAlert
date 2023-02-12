@@ -1,0 +1,31 @@
+
+product,url,alertPrice,price,alert
+iPhone 14 pro max,https://www.amazon.in/Apple-iPhone-128GB-Space-Black/dp/B0BDJ7P6NG/,122999,0.0,True
+Nothing Phone(1),https://www.amazon.in/Nothing-Phone-Black-128-RAM/dp/B0BKZVF7VV,28950,28950.0,True
+product,url,alertPrice,price,alert
+iPhone 14 pro max,https://www.amazon.in/Apple-iPhone-128GB-Space-Black/dp/B0BDJ7P6NG/,121999,122999.0,False
+Nothing Phone(1),https://www.amazon.in/Nothing-Phone-Black-128-RAM/dp/B0BKZVF7VV,27950,0.0,True
+product,url,alertPrice,price,alert
+iPhone 14 pro max,https://www.amazon.in/Apple-iPhone-128GB-Space-Black/dp/B0BDJ7P6NG/,121999,0.0,True
+Nothing Phone(1),https://www.amazon.in/Nothing-Phone-Black-128-RAM/dp/B0BKZVF7VV,27950,0.0,True
+product,url,alertPrice,price,alert
+iPhone 14 pro max,https://www.amazon.in/Apple-iPhone-128GB-Space-Black/dp/B0BDJ7P6NG/,123999,0.0,True
+Nothing Phone(1),https://www.amazon.in/Nothing-Phone-Black-128-RAM/dp/B0BKZVF7VV,29950,0.0,True
+product,url,alertPrice,price,alert
+iPhone 14 pro max,https://www.amazon.in/Apple-iPhone-128GB-Space-Black/dp/B0BDJ7P6NG/,123999,122999.0,True
+Nothing Phone(1),https://www.amazon.in/Nothing-Phone-Black-128-RAM/dp/B0BKZVF7VV,29950,0.0,True
+product,url,alertPrice,price,alert
+iPhone 14 pro max,https://www.amazon.in/Apple-iPhone-128GB-Space-Black/dp/B0BDJ7P6NG/,121999,122999.0,False
+Nothing Phone(1),https://www.amazon.in/Nothing-Phone-Black-128-RAM/dp/B0BKZVF7VV,27950,0.0,True
+product,url,alertPrice,price,alert
+Nothing Phone(1),https://www.amazon.in/Nothing-Phone-Black-128-RAM/dp/B0BKZVF7VV,28950,0.0,True
+product,url,alertPrice,price,alert
+Nothing Phone(1),https://www.amazon.in/Nothing-Phone-Black-128-RAM/dp/B0BKZVF7VV,28950,28950.0,True
+product,url,alertPrice,price,alert
+Nothing Phone(1),https://www.amazon.in/Nothing-Phone-Black-128-RAM/dp/B0BKZVF7VV,27950,28950.0,False
+product,url,alertPrice,price,alert
+Nothing Phone(1),https://www.amazon.in/Nothing-Phone-Black-128-RAM/dp/B0BKZVF7VV,27950,0.0,True
+iPhone 14,https://www.amazon.in/Apple-iPhone-128GB-Space-Black/dp/B0BDJ7P6NG,121990,0.0,True
+product,url,alertPrice,price,alert
+Nothing Phone(1),https://www.amazon.in/Nothing-Phone-Black-128-RAM/dp/B0BKZVF7VV,27950,0.0,True
+iPhone 14,https://www.amazon.in/Apple-iPhone-128GB-Space-Black/dp/B0BDJ7P6NG,121990,122999.0,False
